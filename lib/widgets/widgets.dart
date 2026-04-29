@@ -271,7 +271,7 @@ class StatCard extends StatelessWidget {
               ),
             ],
           ),
-          const SizedBox(height: 16),
+          const SizedBox(height: 8),
           Row(
             crossAxisAlignment: CrossAxisAlignment.end,
             children: [
@@ -279,7 +279,7 @@ class StatCard extends StatelessWidget {
                 value,
                 style: TextStyle(
                   color: AppColors.textPrimary,
-                  fontSize: 28,
+                  fontSize: 24,
                   fontWeight: FontWeight.w900,
                   fontFamily: 'Orbitron',
                 ),

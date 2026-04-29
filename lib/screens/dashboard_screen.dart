@@ -263,7 +263,7 @@ class DashboardScreen extends StatelessWidget {
       physics: const NeverScrollableScrollPhysics(),
       crossAxisSpacing: 12,
       mainAxisSpacing: 12,
-      childAspectRatio: 1.3,
+      childAspectRatio: 1.25,
       children: [
         StatCard(
           label: 'Distance',
@@ -299,7 +299,7 @@ class DashboardScreen extends StatelessWidget {
 
   Widget _buildWeeklyBar() {
     final data = ActivityProvider.weeklyData;
-    final maxDist = data.map((d) => d['distance'] as double).reduce(
+    final maxDist = data.map((d) => (d['distance'] as num).toDouble()).reduce(
           (a, b) => a > b ? a : b,
         );
 
@@ -310,7 +310,7 @@ class DashboardScreen extends StatelessWidget {
           Row(
             mainAxisAlignment: MainAxisAlignment.spaceBetween,
             children: data.map((d) {
-              final dist = d['distance'] as double;
+              final dist = (d['distance'] as num).toDouble();
               final height = maxDist > 0 ? (dist / maxDist) : 0.0;
               final isToday = d['day'] == _getDayName();
               return _buildBarColumn(
