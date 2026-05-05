@@ -1,15 +1,23 @@
 # ⚡ FitPulse — Futuristic Fitness + Events App
 ---
-<img width="200" height="400" alt="FirstInterface" src="https://github.com/user-attachments/assets/07ef82f7-5f21-44d0-ab44-35c5ac3a0289" />
-<img width="200" height="400" alt="signin" src="https://github.com/user-attachments/assets/d30514ff-beb7-437e-91c3-acd30858515f" />
-<img width="200" height="400" alt="sign up" src="https://github.com/user-attachments/assets/a0711427-6162-4fbe-a98e-fc4f6cab44f1" />
-<img width="200" height="400" alt="Home screen" src="https://github.com/user-attachments/assets/43af56f5-1941-4edc-b752-b54cb1f26382" />
-<img width="200" height="400" alt="Home screen 2" src="https://github.com/user-attachments/assets/1ace4285-3135-4596-8511-b4eb5618764e" />
-<img width="200" height="400" alt="event detail" src="https://github.com/user-attachments/assets/b490b443-0afa-437e-9286-d4d14767ba1a" />
-<img width="200" height="400" alt="dashboard" src="https://github.com/user-attachments/assets/03da2a7d-deb2-4f0c-8c0d-cc0de59e8317" />
-<img width="200" height="400" alt="user profile" src="https://github.com/user-attachments/assets/4eefc217-a340-4495-a511-cb0005e26144" />
-<img width="200" height="400" alt="signout" src="https://github.com/user-attachments/assets/9eae686b-e32e-45b9-8733-cf3ae5e17b1f" />
 
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/07ef82f7-5f21-44d0-ab44-35c5ac3a0289" width="200"/>
+<img src="https://github.com/user-attachments/assets/d30514ff-beb7-437e-91c3-acd30858515f" width="200"/>
+<img src="https://github.com/user-attachments/assets/a0711427-6162-4fbe-a98e-fc4f6cab44f1" width="200"/>
+<img src="https://github.com/user-attachments/assets/43af56f5-1941-4edc-b752-b54cb1f26382" width="200"/>
+
+<img src="https://github.com/user-attachments/assets/1ace4285-3135-4596-8511-b4eb5618764e" width="200"/>
+<img src="https://github.com/user-attachments/assets/b490b443-0afa-437e-9286-d4d14767ba1a" width="200"/>
+<img src="https://github.com/user-attachments/assets/03da2a7d-deb2-4f0c-8c0d-cc0de59e8317" width="200"/>
+<img src="https://github.com/user-attachments/assets/4eefc217-a340-4495-a511-cb0005e26144" width="200"/>
+
+<img src="https://github.com/user-attachments/assets/9eae686b-e32e-45b9-8733-cf3ae5e17b1f" width="200"/>
+
+</div>
+
+---
 
 ## 📱 Screenshots Overview
 
