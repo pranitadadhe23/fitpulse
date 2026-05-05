@@ -1,6 +1,6 @@
 # ⚡ FitPulse — Futuristic Fitness + Events App
 ---
-<img width="50" height="100" alt="FirstInterface" src="https://github.com/user-attachments/assets/07ef82f7-5f21-44d0-ab44-35c5ac3a0289" />
+<img width="200" height="400" alt="FirstInterface" src="https://github.com/user-attachments/assets/07ef82f7-5f21-44d0-ab44-35c5ac3a0289" />
 
 ## 📱 Screenshots Overview
 
