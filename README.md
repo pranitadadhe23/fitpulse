@@ -1,8 +1,6 @@
 # ⚡ FitPulse — Futuristic Fitness + Events App
-
-A complete Flutter application with Firebase backend featuring a stunning neon dark UI.
-
 ---
+<img width="720" height="1514" alt="FirstInterface" src="https://github.com/user-attachments/assets/07ef82f7-5f21-44d0-ab44-35c5ac3a0289" />
 
 ## 📱 Screenshots Overview
 
